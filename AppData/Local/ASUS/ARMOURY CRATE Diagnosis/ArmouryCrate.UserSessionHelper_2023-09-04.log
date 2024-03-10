@@ -1,0 +1,1661 @@
+2023-09-04 00:07:18; INFO; User Session Manager; 9836; 12676] OnPowerChange Start
+2023-09-04 00:07:18; INFO; User Session Manager; 9836; 12676] OnPowerChange dwEventType=18, lpEventData=0000000000000000
+2023-09-04 00:07:18; INFO; User Session Manager; 9836; 12676] OnPowerChange End
+2023-09-04 00:07:18; INFO; User Session Manager; 9836; 12676] OnPowerChange Start
+2023-09-04 00:07:18; INFO; User Session Manager; 9836; 12676] OnPowerChange dwEventType=7, lpEventData=0000000000000000
+2023-09-04 00:07:18; INFO; User Session Manager; 9836; 12676] OnPowerChange End
+2023-09-04 00:07:18; INFO; User Session Manager; 9836; 12676] OnPowerChange Start
+2023-09-04 00:07:18; INFO; User Session Manager; 9836; 12676] OnPowerChange dwEventType=4, lpEventData=0000000000000000
+2023-09-04 00:07:18; INFO; User Session Manager; 9836; 12676] OnPowerChange End
+2023-09-04 00:07:18; INFO; Aura Pluing; 9836; 1776] [ROGAuraInterface][SetMatrixScriptToService] from MLSMApplyMatrixAll End FunctionKey Unlock
+2023-09-04 00:07:18; WARNING; Aura Pluing; 9836; 1776] [ROGAuraInterface][SetMatrixScriptToService] End
+2023-09-04 00:07:18; WARNING; Aura Pluing; 9836; 1776] [AuraSyncDeviceClass][GetMatrixLEDDevice] End
+2023-09-04 00:07:18; WARNING; Aura Pluing; 9836; 1776] [ROGAuraInterface][AuraApply] Get device list at APPLY
+2023-09-04 00:07:18; WARNING; Aura Pluing; 9836; 1776] [ROGAuraInterface][GetDeviceListFromLightingService] from APPLY Start
+2023-09-04 00:07:18; WARNING; Aura Pluing; 9836; 1776] [ROGAuraInterface][GetDeviceListFromLightingService] GetDeviceListFromLightingService FunctionKey LOCK from APPLY
+2023-09-04 00:07:18; WARNING; Aura Pluing; 9836; 1776] [ROGAuraInterface][GetDeviceListFromLightingService] Enter LOCK from APPLY
+2023-09-04 00:07:18; WARNING; Aura Pluing; 9836; 1776] [ROGAuraInterface][GetDeviceListFromLightingService] Already get device or suspend, skip and unlock from APPLY
+2023-09-04 00:07:18; INFO; Aura Pluing; 9836; 1776] [ROGAuraInterface][UpdateDeviceOtherSettings] In
+2023-09-04 00:07:18; WARNING; Aura Pluing; 9836; 1776] [ROGAuraInterface][UpdateDeviceOtherSettings] Count = 0 Assign StatusReady type = 64
+2023-09-04 00:07:18; INFO; Aura Pluing; 9836; 1776] [ROGAuraInterface][UpdateDeviceOtherSettings] End
+2023-09-04 00:07:18; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] in
+2023-09-04 00:07:18; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] ROGServiceInfo.LightingServiceSupportModernStandbyNotify: 1
+2023-09-04 00:07:18; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] PBT_APMRESUMEAUTOMATIC In
+2023-09-04 00:07:18; WARNING; Aura Pluing; 9836; 1776] [ROGAuraInterface][GetDeviceListFromLightingService] from APPLY End
+2023-09-04 00:07:18; INFO; Aura Pluing; 9836; 1776] CallLibrary Start
+2023-09-04 00:07:18; INFO; ScenarioProfilePlugIn; 9836; 1776] ProcessRequest : ScenarioProfileReceiveServiceMessage
+2023-09-04 00:07:18; INFO; ScenarioProfilePlugIn; 9836; 1776] (CLR_SetCacheXml) AppTag : AURA_Sync, GUID : {6AD2878E-6F59-4F34-BEE4-3F5A994A006D}, Mode : 4, ModeKey : 4, Type : Service_App
+2023-09-04 00:07:18; INFO; Aura Pluing; 9836; 1776] CallLibrary End
+2023-09-04 00:07:18; WARNING; Aura Pluing; 9836; 1776] [ROGAuraInterface][ApplyMatrixLED] Device count = 0
+2023-09-04 00:07:18; INFO; Aura Pluing; 9836; 1776] CallLibrary Start
+2023-09-04 00:07:18; INFO; Aura Pluing; 9836; 1776] CallLibrary End
+2023-09-04 00:07:19; WARNING; Aura Pluing; 9836; 1776] [RescanThread] RescanThread end
+2023-09-04 00:07:19; INFO; Aura Pluing; 9836; 1524] [AudioDeviceClassLog][GetDefaultAudioDevice] Get default audio device from startup/devicechange START
+2023-09-04 00:07:19; INFO; Aura Pluing; 9836; 1524] [AudioDeviceClassLog][GetDefaultAudioDevice] Default audio device = ???????? (Realtek(R) Audio)
+2023-09-04 00:07:23; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] PBT_APMRESUMEAUTOMATIC Out
+2023-09-04 00:07:23; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] out
+2023-09-04 00:07:23; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] in
+2023-09-04 00:07:23; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] ROGServiceInfo.LightingServiceSupportModernStandbyNotify: 1
+2023-09-04 00:07:23; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] out
+2023-09-04 00:07:23; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] in
+2023-09-04 00:07:23; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] ROGServiceInfo.LightingServiceSupportModernStandbyNotify: 1
+2023-09-04 00:07:23; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] PBT_APMSUSPEND In
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 00:07:27; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] PBT_APMSUSPEND Out
+2023-09-04 21:09:45; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] out
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; Utility Plugin; 9836; 8408] Enter NotifyBitLockerStatus()
+2023-09-04 21:09:45; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before System Folder
+2023-09-04 21:09:45; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After System Folder is C:\Windows\system32
+2023-09-04 21:09:45; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before IsBitLockerEnabled()
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:45; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:45; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Try Get ConversaionStatus
+2023-09-04 21:09:45; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Finish Get ConversaionStatus
+2023-09-04 21:09:45; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before release COM
+2023-09-04 21:09:46; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After release COM
+2023-09-04 21:09:46; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After IsBitLockerEnabled() = 0
+2023-09-04 21:09:46; INFO; Utility Plugin; 9836; 8408] Becuase bitlocker status is the same, does not need to notify bios
+
+2023-09-04 21:09:46; INFO; Utility Plugin; 9836; 8408] NotifyBitLockerStatus() Finish
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 15352] OnPowerChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 15352] OnPowerChange dwEventType=18, lpEventData=0000000000000000
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 15352] OnPowerChange End
+2023-09-04 21:09:46; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] in
+2023-09-04 21:09:46; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] ROGServiceInfo.LightingServiceSupportModernStandbyNotify: 1
+2023-09-04 21:09:46; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] PBT_APMRESUMEAUTOMATIC In
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 15352] OnPowerChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 15352] OnPowerChange dwEventType=7, lpEventData=0000000000000000
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnPowerChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnPowerChange dwEventType=32787, lpEventData=000001E4192B70B0
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnPowerChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:46; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; GPU Power Saving Plugin ; 9836; 1932] OnPowerChange(GUID_CONSOLE_DISPLAY_STATE): eventType:32787, Display On
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; CRITICAL; Utility Plugin; 9836; 8408] OnPowerChange(GUID_CONSOLE_DISPLAY_STATE): eventType:32787, Display On
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] open display notiy bios bitlocker status
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] Enter NotifyBitLockerStatus()
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before System Folder
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After System Folder is C:\Windows\system32
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before IsBitLockerEnabled()
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 15352] OnPowerChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Try Get ConversaionStatus
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Finish Get ConversaionStatus
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before release COM
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After release COM
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After IsBitLockerEnabled() = 0
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] CheckPCR7Stats() Enter
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] m_uiPCR7BindingStatus = 0
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] CheckPCR7Stats() Finish, successful
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before Two_WMIMethod_INT()
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] dwBitLockerEnable = 0 ; m_b2023Project = 0 ; m_uiPCR7BindingStatus = 0
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After Two_WMIMethod_INT()
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] Fail because bios does not support WMI ID 0x00060096
+
+2023-09-04 21:09:47; INFO; Utility Plugin; 9836; 8408] NotifyBitLockerStatus() Finish
+2023-09-04 21:09:47; INFO; ScenarioProfilePlugIn; 9836; 7408] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 67, ModeKey : 67, Type : System_Function
+2023-09-04 21:09:47; INFO; ScenarioProfilePlugIn; 9836; 7408] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2023-09-04 21:09:47; INFO; GPU Power Saving Plugin ; 9836; 1932] Start NV Service
+
+2023-09-04 21:09:47; INFO; ScenarioProfilePlugIn; 9836; 7408] (CLR_SetCacheXml) AppTag : System_Volume, GUID : System_Volume, Mode : 67, ModeKey : 67, Type : System_Function
+2023-09-04 21:09:47; INFO; ScenarioProfilePlugIn; 9836; 7408] (CLR_SetCacheXml) AppTag : System_Volume_isMute, GUID : System_Volume_isMute, Mode : False, ModeKey : False, Type : System_Function
+2023-09-04 21:09:47; INFO; Loopback Stream; 9836; 7860] CallLibrary Start
+2023-09-04 21:09:47; INFO; Loopback Stream; 9836; 7860] CallLibrary End
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:47; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:48; INFO; Loopback Stream; 9836; 2872] CallLibrary Start
+2023-09-04 21:09:48; INFO; Throttle Plugin; 9836; 2872] SetPowerScheme, Mode: 1, dwPowerScheme 1
+2023-09-04 21:09:48; INFO; Loopback Stream; 9836; 14004] CallLibrary Start
+2023-09-04 21:09:48; INFO; ScenarioProfilePlugIn; 9836; 14004] start ReceiveNotification HyperFanStatusChange
+2023-09-04 21:09:48; INFO; ScenarioProfilePlugIn; 9836; 14004] (CLR_SetCacheXml) AppTag : Hyper_Fan_DC, GUID : {467227bf-4b16-462a-8abb-9ba331ee45db}, Mode : 2, ModeKey : 2, Type : HyperFan
+2023-09-04 21:09:48; INFO; Loopback Stream; 9836; 14004] CallLibrary End
+2023-09-04 21:09:48; INFO; Throttle Plugin; 9836; 2872] SetPowerMaxCore, need: 1
+2023-09-04 21:09:48; WARNING; Throttle Plugin; 9836; 2872] Invalid iPowerMode=-1
+2023-09-04 21:09:48; INFO; Loopback Stream; 9836; 2872] CallLibrary End
+2023-09-04 21:09:50; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:50; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:50; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:50; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:50; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:50; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:50; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:09:50; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:09:51; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] PBT_APMRESUMEAUTOMATIC Out
+2023-09-04 21:09:51; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] out
+2023-09-04 21:09:51; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] in
+2023-09-04 21:09:51; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] ROGServiceInfo.LightingServiceSupportModernStandbyNotify: 1
+2023-09-04 21:09:51; INFO; Aura Pluing; 9836; 16840] [AuraPlugin][isConnectedStandby] out
+2023-09-04 21:09:52; INFO; GPU Power Saving Plugin ; 9836; 17368] Enter CheckEGPUMode()
+2023-09-04 21:09:52; INFO; GPU Power Saving Plugin ; 9836; 17368] CheckEGPUMode() Finish
+2023-09-04 21:09:52; INFO; GPU Power Saving Plugin ; 9836; 17368] Enter SetLastStatus()
+2023-09-04 21:09:52; INFO; GPU Power Saving Plugin ; 9836; 17368] KeepStatus true and IsUMA is false
+2023-09-04 21:09:52; INFO; GPU Power Saving Plugin ; 9836; 17368] BIOS already Hybrid
+2023-09-04 21:09:52; INFO; GPU Power Saving Plugin ; 9836; 17368] Enter LaunchIntelPatch()
+2023-09-04 21:09:53; INFO; GPU Power Saving Plugin ; 9836; 17368] LaunchIntelPatch() OK
+2023-09-04 21:09:53; INFO; GPU Power Saving Plugin ; 9836; 17368] SetLastStatus() - Success set to Hybrid
+2023-09-04 21:09:53; INFO; GPU Power Saving Plugin ; 9836; 17368] SetLastStatus() Finish
+2023-09-04 21:09:53; INFO; GPU Power Saving Plugin ; 9836; 17368] Enter GetDDSSetting()
+2023-09-04 21:09:53; INFO; GPU Power Saving Plugin ; 9836; 17368] GetDDSSetting() Finish, m_bSupportDDS = 0
+2023-09-04 21:09:53; WARNING; AC_FDSPlugIn; 9836; 17080] [MonitorHandler] (ForegroundEventThread) Working Path is Empty.
+2023-09-04 21:09:56; INFO; Loopback Stream; 9836; 15228] CallLibrary Start
+2023-09-04 21:09:56; INFO; Loopback Stream; 9836; 15228] CallLibrary End
+2023-09-04 21:10:00; INFO; User Session Manager; 9836; 18664] OnSessionChange Start
+2023-09-04 21:10:00; ERROR; AC_FDSPlugIn; 9836; 8596] UserSession:1, OnSessionChange: Event:8
+2023-09-04 21:10:00; ERROR; DenoiseAI Pluing; 9836; 4056] UserSession:1, OnSessionChange: Event:8
+2023-09-04 21:10:00; ERROR; SoulKey Plugin; 9836; 13880] UserSession:1, OnSessionChange: Event:8
+2023-09-04 21:10:00; ERROR; DeviceServicePlugin; 9836; 15004] [DeviceServicePlugin] UserSession:1, OnSessionChange: Event:8
+2023-09-04 21:10:00; ERROR; WebSocketClientPlugin; 9836; 17904] UserSession:1, OnSessionChange: Event:8
+2023-09-04 21:10:00; ERROR; Virtual Drive Plugin; 9836; 16404] UserSession:1, OnSessionChange: Event:8
+2023-09-04 21:10:00; INFO; User Session Manager; 9836; 18664] OnSessionChange End
+2023-09-04 21:10:00; INFO; ACStore Plugin; 9836; 14992] OnSessionChange(): Type = 8
+2023-09-04 21:10:00; ERROR; GPU Power Saving Plugin ; 9836; 1932] UserSession:1, OnSessionChange: Event:8
+2023-09-04 21:10:00; ERROR; GameLibrary Pluing; 9836; 17168] UserSession:1, OnSessionChange: Event:8
+2023-09-04 21:10:00; ERROR; Mobile Plugin; 9836; 11396] UserSession:1, OnSessionChange: Event:8
+2023-09-04 21:10:00; INFO; ScenarioProfilePlugIn; 9836; 16112] UserSession:1, OnSessionChange: Event:8
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] SessionChange-Login notify bitlocker status
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] Enter NotifyBitLockerStatus()
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before System Folder
+2023-09-04 21:10:00; ERROR; Free Up Memory Plugin; 9836; 19252] UserSession:1, OnSessionChange: Event:8
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After System Folder is C:\Windows\system32
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before IsBitLockerEnabled()
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Try Get ConversaionStatus
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Finish Get ConversaionStatus
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before release COM
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After release COM
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After IsBitLockerEnabled() = 0
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] CheckPCR7Stats() Enter
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] m_uiPCR7BindingStatus = 0
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] CheckPCR7Stats() Finish, successful
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before Two_WMIMethod_INT()
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] dwBitLockerEnable = 0 ; m_b2023Project = 0 ; m_uiPCR7BindingStatus = 0
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After Two_WMIMethod_INT()
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] Fail because bios does not support WMI ID 0x00060096
+
+2023-09-04 21:10:00; INFO; Utility Plugin; 9836; 8408] NotifyBitLockerStatus() Finish
+2023-09-04 21:10:10; INFO; AC_FDSPlugIn; 9836; 12496] CallLibrary Start
+2023-09-04 21:10:10; INFO; ScenarioProfilePlugIn; 9836; 12496] ProcessRequest : DoForegroundEvent
+2023-09-04 21:10:10; INFO; ScenarioProfilePlugIn; 9836; 12496] (DoForegroundEvent) PID=14752, Path="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe", AppType=WIN32
+2023-09-04 21:10:10; INFO; ScenarioProfilePlugIn; 9836; 12496] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:10:10; INFO; ScenarioProfilePlugIn; 9836; 12496] (MonitorHandler) No linked profile
+2023-09-04 21:10:10; INFO; ScenarioProfilePlugIn; 9836; 12496] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:10:10; INFO; ScenarioProfilePlugIn; 9836; 12496] Finish DoForegroundEvent()
+2023-09-04 21:10:10; INFO; AC_FDSPlugIn; 9836; 12496] CallLibrary End
+2023-09-04 21:10:10; INFO; AC_FDSPlugIn; 9836; 20344] CallLibrary Start
+2023-09-04 21:10:10; INFO; AC_FDSPlugIn; 9836; 20344] CallLibrary End
+2023-09-04 21:10:17; INFO; AC_FDSPlugIn; 9836; 5576] CallLibrary Start
+2023-09-04 21:10:17; INFO; ScenarioProfilePlugIn; 9836; 5576] ProcessRequest : DoForegroundEvent
+2023-09-04 21:10:17; INFO; ScenarioProfilePlugIn; 9836; 5576] (DoForegroundEvent) PID=8856, Path="C:\Windows\explorer.exe", AppType=WIN32
+2023-09-04 21:10:17; INFO; ScenarioProfilePlugIn; 9836; 5576] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:10:17; INFO; ScenarioProfilePlugIn; 9836; 5576] (MonitorHandler) No linked profile
+2023-09-04 21:10:17; INFO; ScenarioProfilePlugIn; 9836; 5576] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:10:17; INFO; ScenarioProfilePlugIn; 9836; 5576] Finish DoForegroundEvent()
+2023-09-04 21:10:17; INFO; AC_FDSPlugIn; 9836; 5576] CallLibrary End
+2023-09-04 21:10:17; INFO; AC_FDSPlugIn; 9836; 13340] CallLibrary Start
+2023-09-04 21:10:17; INFO; AC_FDSPlugIn; 9836; 13340] CallLibrary End
+2023-09-04 21:10:17; INFO; AC_FDSPlugIn; 9836; 19988] CallLibrary Start
+2023-09-04 21:10:17; INFO; AC_FDSPlugIn; 9836; 19988] CallLibrary End
+2023-09-04 21:10:17; INFO; AC_FDSPlugIn; 9836; 4956] CallLibrary Start
+2023-09-04 21:10:17; INFO; ScenarioProfilePlugIn; 9836; 4956] ProcessRequest : DoForegroundEvent
+2023-09-04 21:10:17; INFO; ScenarioProfilePlugIn; 9836; 4956] (DoForegroundEvent) PID=8856, Path="C:\Windows\explorer.exe", AppType=WIN32
+2023-09-04 21:10:17; INFO; ScenarioProfilePlugIn; 9836; 4956] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:10:17; INFO; ScenarioProfilePlugIn; 9836; 4956] (MonitorHandler) No linked profile
+2023-09-04 21:10:17; INFO; ScenarioProfilePlugIn; 9836; 4956] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:10:17; INFO; ScenarioProfilePlugIn; 9836; 4956] Finish DoForegroundEvent()
+2023-09-04 21:10:17; INFO; AC_FDSPlugIn; 9836; 4956] CallLibrary End
+2023-09-04 21:10:23; INFO; AC_FDSPlugIn; 9836; 8152] CallLibrary Start
+2023-09-04 21:10:23; INFO; ScenarioProfilePlugIn; 9836; 8152] ProcessRequest : DoForegroundEvent
+2023-09-04 21:10:23; INFO; ScenarioProfilePlugIn; 9836; 8152] (DoForegroundEvent) PID=10544, Path="5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App", AppType=UWP
+2023-09-04 21:10:23; INFO; ScenarioProfilePlugIn; 9836; 8152] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:10:23; INFO; ScenarioProfilePlugIn; 9836; 8152] (MonitorHandler) No linked profile
+2023-09-04 21:10:23; INFO; ScenarioProfilePlugIn; 9836; 8152] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:10:23; INFO; ScenarioProfilePlugIn; 9836; 8152] Finish DoForegroundEvent()
+2023-09-04 21:10:23; INFO; AC_FDSPlugIn; 9836; 8152] CallLibrary End
+2023-09-04 21:10:23; INFO; AC_FDSPlugIn; 9836; 12360] CallLibrary Start
+2023-09-04 21:10:23; INFO; AC_FDSPlugIn; 9836; 12360] CallLibrary End
+2023-09-04 21:10:26; INFO; Loopback Stream; 9836; 6312] CallLibrary Start
+2023-09-04 21:10:26; INFO; Loopback Stream; 9836; 6312] CallLibrary End
+2023-09-04 21:10:47; INFO; GPU Power Saving Plugin ; 9836; 14444] Enter CheckDisplayStatus()
+2023-09-04 21:10:47; INFO; GPU Power Saving Plugin ; 9836; 14444] Display Status Change From : 1
+
+2023-09-04 21:10:47; INFO; GPU Power Saving Plugin ; 9836; 14444] Display Status Change To : 1
+
+2023-09-04 21:10:47; INFO; GPU Power Saving Plugin ; 9836; 14444] Enter ImplementAutoMode()
+2023-09-04 21:10:47; INFO; GPU Power Saving Plugin ; 9836; 14444] UMA - IsAutoMode : false
+
+2023-09-04 21:10:47; INFO; GPU Power Saving Plugin ; 9836; 14444] Enter CheckEGPUMode()
+2023-09-04 21:10:47; INFO; GPU Power Saving Plugin ; 9836; 14444] CheckEGPUMode() Finish
+2023-09-04 21:10:47; INFO; GPU Power Saving Plugin ; 9836; 14444] ImplementAutoMode() Finish
+2023-09-04 21:10:47; INFO; GPU Power Saving Plugin ; 9836; 14444] Enter EnumGPUProcess()
+2023-09-04 21:10:48; INFO; GPU Power Saving Plugin ; 9836; 14444] m_bFindIntel_iGPU=1 , m_bFindNV=1 , m_bFindAMD_iGPU=0 , m_bFindRadeon=0 , m_bFindIntelARC=0 , m_nDiscreteCardTtl=1
+2023-09-04 21:10:48; INFO; GPU Power Saving Plugin ; 9836; 14444] Supported Nvidia library.
+2023-09-04 21:10:48; INFO; GPU Power Saving Plugin ; 9836; 14444] EnumGPUProcess() Finish
+2023-09-04 21:10:48; INFO; GPU Power Saving Plugin ; 9836; 14444] CheckDisplayStatus() Finish
+2023-09-04 21:10:53; INFO; GameLibrary Pluing; 9836; 18324] CallLibrary Start
+2023-09-04 21:10:54; INFO; GameLibrary Pluing; 9836; 18324] CallLibrary End
+2023-09-04 21:10:54; INFO; GameLibrary Pluing; 9836; 18324] [GameLibraryPlugin] (UpdateGameDataTimer) IS_FOUND
+2023-09-04 21:10:56; INFO; Loopback Stream; 9836; 12672] CallLibrary Start
+2023-09-04 21:10:56; INFO; Loopback Stream; 9836; 12672] CallLibrary End
+2023-09-04 21:11:01; INFO; Utility Plugin; 9836; 15628] CallLibrary Start
+2023-09-04 21:11:01; INFO; Utility Plugin; 9836; 15628] CallLibrary End
+2023-09-04 21:11:01; INFO; Utility Plugin; 9836; 15628] CallLibrary Start
+2023-09-04 21:11:01; INFO; GPU Power Saving Plugin ; 9836; 15628] Enter DoGetGraphicStatus()
+2023-09-04 21:11:01; INFO; GPU Power Saving Plugin ; 9836; 15628] Enter GetGraphicStatus()
+2023-09-04 21:11:01; INFO; GPU Power Saving Plugin ; 9836; 15628] Enter InitializeFolderHook()
+2023-09-04 21:11:01; INFO; GPU Power Saving Plugin ; 9836; 15628] Enter InitializeFolderHook() Finish
+2023-09-04 21:11:01; INFO; GPU Power Saving Plugin ; 9836; 15628] Get GPUStatus from BIOS : 0 (0:Hybrid ; 1:UMA)
+
+2023-09-04 21:11:01; INFO; GPU Power Saving Plugin ; 9836; 15628] GetGraphicStatus() Finish
+2023-09-04 21:11:01; INFO; GPU Power Saving Plugin ; 9836; 15628] DoGetGraphicStatus() - Graphic_Status = 0
+2023-09-04 21:11:01; INFO; GPU Power Saving Plugin ; 9836; 15628] DoGetGraphicStatus() - Auto_Status = 0
+2023-09-04 21:11:01; INFO; GPU Power Saving Plugin ; 9836; 15628] DoGetGraphicStatus() Finish
+2023-09-04 21:11:01; INFO; Utility Plugin; 9836; 15628] CallLibrary End
+2023-09-04 21:11:26; INFO; Loopback Stream; 9836; 12424] CallLibrary Start
+2023-09-04 21:11:26; INFO; Loopback Stream; 9836; 12424] CallLibrary End
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:11:40; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:11:54; INFO; Aura Pluing; 9836; 1524] [AuraListener] DataCollection 24hr Trigger data collection !!
+2023-09-04 21:11:56; INFO; Loopback Stream; 9836; 8404] CallLibrary Start
+2023-09-04 21:11:56; INFO; Loopback Stream; 9836; 8404] CallLibrary End
+2023-09-04 21:12:03; INFO; AC_FDSPlugIn; 9836; 20016] CallLibrary Start
+2023-09-04 21:12:03; INFO; ScenarioProfilePlugIn; 9836; 20016] ProcessRequest : DoForegroundEvent
+2023-09-04 21:12:03; INFO; ScenarioProfilePlugIn; 9836; 20016] (DoForegroundEvent) PID=8856, Path="C:\Windows\explorer.exe", AppType=WIN32
+2023-09-04 21:12:03; INFO; ScenarioProfilePlugIn; 9836; 20016] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:12:03; INFO; ScenarioProfilePlugIn; 9836; 20016] (MonitorHandler) No linked profile
+2023-09-04 21:12:03; INFO; ScenarioProfilePlugIn; 9836; 20016] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:12:03; INFO; ScenarioProfilePlugIn; 9836; 20016] Finish DoForegroundEvent()
+2023-09-04 21:12:03; INFO; AC_FDSPlugIn; 9836; 20016] CallLibrary End
+2023-09-04 21:12:03; INFO; AC_FDSPlugIn; 9836; 14032] CallLibrary Start
+2023-09-04 21:12:03; INFO; AC_FDSPlugIn; 9836; 14032] CallLibrary End
+2023-09-04 21:12:20; INFO; User Session Manager; 9836; 18664] OnPowerChange Start
+2023-09-04 21:12:20; INFO; User Session Manager; 9836; 18664] OnPowerChange dwEventType=10, lpEventData=0000000000000000
+2023-09-04 21:12:20; INFO; User Session Manager; 9836; 18664] OnPowerChange End
+2023-09-04 21:12:20; INFO; User Session Manager; 9836; 18664] OnPowerChange Start
+2023-09-04 21:12:20; INFO; User Session Manager; 9836; 18664] OnPowerChange dwEventType=32787, lpEventData=000001E4195F2AE0
+2023-09-04 21:12:20; INFO; User Session Manager; 9836; 18664] OnPowerChange End
+2023-09-04 21:12:20; INFO; GPU Power Saving Plugin ; 9836; 1932] Power Status Change From : 1
+
+2023-09-04 21:12:20; INFO; GPU Power Saving Plugin ; 9836; 1932] Power Status Change To : 0
+
+2023-09-04 21:12:20; INFO; GPU Power Saving Plugin ; 9836; 1932] Enter ImplementAutoMode()
+2023-09-04 21:12:20; INFO; GPU Power Saving Plugin ; 9836; 1932] UMA - IsAutoMode : false
+
+2023-09-04 21:12:20; INFO; GPU Power Saving Plugin ; 9836; 1932] Enter CheckEGPUMode()
+2023-09-04 21:12:20; INFO; Loopback Stream; 9836; 2368] CallLibrary Start
+2023-09-04 21:12:20; INFO; Throttle Plugin; 9836; 2368] DisplayThrottleOSD: OSDType 1, OSDMessage 255, PopToast 1, Result 1
+2023-09-04 21:12:20; INFO; Loopback Stream; 9836; 2368] CallLibrary End
+2023-09-04 21:12:20; INFO; GPU Power Saving Plugin ; 9836; 1932] CheckEGPUMode() Finish
+2023-09-04 21:12:20; INFO; GPU Power Saving Plugin ; 9836; 1932] ImplementAutoMode() Finish
+2023-09-04 21:12:20; INFO; GPU Power Saving Plugin ; 9836; 1932] Enter EnumGPUProcess()
+2023-09-04 21:12:20; INFO; Loopback Stream; 9836; 11676] CallLibrary Start
+2023-09-04 21:12:20; INFO; Throttle Plugin; 9836; 11676] SetPowerScheme, Mode: 0, dwPowerScheme 0
+2023-09-04 21:12:20; INFO; User Session Manager; 9836; 18664] OnRegisteredWindowMessage Start
+2023-09-04 21:12:20; INFO; User Session Manager; 9836; 18664] OnRegisteredWindowMessage End
+2023-09-04 21:12:20; INFO; User Session Manager; 9836; 18664] OnRegisteredWindowMessage Start
+2023-09-04 21:12:20; INFO; User Session Manager; 9836; 18664] OnRegisteredWindowMessage End
+2023-09-04 21:12:20; INFO; Throttle Plugin; 9836; 11676] SetPowerMaxCore, need: 0
+2023-09-04 21:12:20; WARNING; Throttle Plugin; 9836; 11676] Invalid iPowerMode=-1
+2023-09-04 21:12:20; INFO; Loopback Stream; 9836; 2428] CallLibrary Start
+2023-09-04 21:12:20; INFO; ScenarioProfilePlugIn; 9836; 2428] start ReceiveNotification HyperFanStatusChange
+2023-09-04 21:12:20; INFO; ScenarioProfilePlugIn; 9836; 2428] (CLR_SetCacheXml) AppTag : Hyper_Fan_AC, GUID : {467227bf-4b16-462a-8abb-9ba331ee45db}, Mode : 1, ModeKey : 1, Type : HyperFan
+2023-09-04 21:12:20; INFO; Loopback Stream; 9836; 2428] CallLibrary End
+2023-09-04 21:12:21; INFO; User Session Manager; 9836; 18664] OnPowerChange Start
+2023-09-04 21:12:21; INFO; User Session Manager; 9836; 18664] OnPowerChange dwEventType=10, lpEventData=0000000000000000
+2023-09-04 21:12:21; INFO; User Session Manager; 9836; 18664] OnPowerChange End
+2023-09-04 21:12:21; INFO; GPU Power Saving Plugin ; 9836; 1932] m_bFindIntel_iGPU=1 , m_bFindNV=1 , m_bFindAMD_iGPU=0 , m_bFindRadeon=0 , m_bFindIntelARC=0 , m_nDiscreteCardTtl=1
+2023-09-04 21:12:21; INFO; GPU Power Saving Plugin ; 9836; 1932] Supported Nvidia library.
+2023-09-04 21:12:21; INFO; GPU Power Saving Plugin ; 9836; 1932] EnumGPUProcess() Finish
+2023-09-04 21:12:21; INFO; GPU Power Saving Plugin ; 9836; 1932] Power Status Change From : 0
+
+2023-09-04 21:12:21; INFO; GPU Power Saving Plugin ; 9836; 1932] Power Status Change To : 0
+
+2023-09-04 21:12:21; INFO; GPU Power Saving Plugin ; 9836; 1932] Enter ImplementAutoMode()
+2023-09-04 21:12:21; INFO; GPU Power Saving Plugin ; 9836; 1932] UMA - IsAutoMode : false
+
+2023-09-04 21:12:21; INFO; GPU Power Saving Plugin ; 9836; 1932] Enter CheckEGPUMode()
+2023-09-04 21:12:21; INFO; GPU Power Saving Plugin ; 9836; 1932] CheckEGPUMode() Finish
+2023-09-04 21:12:21; INFO; GPU Power Saving Plugin ; 9836; 1932] ImplementAutoMode() Finish
+2023-09-04 21:12:22; INFO; User Session Manager; 9836; 18664] OnPowerChange Start
+2023-09-04 21:12:22; INFO; User Session Manager; 9836; 18664] OnPowerChange dwEventType=10, lpEventData=0000000000000000
+2023-09-04 21:12:22; INFO; User Session Manager; 9836; 18664] OnPowerChange End
+2023-09-04 21:12:23; INFO; Throttle Plugin; 9836; 11676] DisplayThrottleOSD: OSDType 0, OSDMessage 0, PopToast 1, Result 1
+2023-09-04 21:12:23; INFO; Loopback Stream; 9836; 11676] CallLibrary End
+2023-09-04 21:12:26; INFO; Loopback Stream; 9836; 14348] CallLibrary Start
+2023-09-04 21:12:26; INFO; Loopback Stream; 9836; 14348] CallLibrary End
+2023-09-04 21:12:56; INFO; Loopback Stream; 9836; 6608] CallLibrary Start
+2023-09-04 21:12:56; INFO; Loopback Stream; 9836; 6608] CallLibrary End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:09; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:10; WARNING; AEF Core; 9836; 16640] Get Asus Device Change Message msg:1, device:1, modelname:TUF GAMING M5, id:0B051898
+2023-09-04 21:13:10; INFO; Macro Key Plugin; 9836; 16640] OnAsusDeviceChanged => Device Plugin - DeviceType=1, DeviceName:TUF GAMING M5, DeviceId=0B051898
+2023-09-04 21:13:10; WARNING; Aura Pluing; 9836; 16640] [AuraPlugin][OnAsusDeviceChanged] Device Plugin=1 - DeviceType=1, DeviceName:TUF GAMING M5, DeviceId=0B051898
+2023-09-04 21:13:10; INFO; Aura Pluing; 9836; 16640] CallLibrary Start
+2023-09-04 21:13:10; INFO; Aura Pluing; 9836; 16640] CallLibrary End
+2023-09-04 21:13:10; INFO; Free Up Memory Plugin; 9836; 16640] OnAsusDeviceChanged => Device Plugin - DeviceType=1, DeviceName:TUF GAMING M5, DeviceId=0B051898
+2023-09-04 21:13:10; INFO; Free Up Memory Plugin; 9836; 16640] CallLibrary Start
+2023-09-04 21:13:10; INFO; Free Up Memory Plugin; 9836; 16640] CallLibrary End
+2023-09-04 21:13:10; INFO; Free Up Memory Plugin; 9836; 16640] Query AttachedDeviceList=>
+{
+  0:{
+    Attributes:{
+      CheckBoxEnable:1,
+      DependentAppStatus:0,
+      DeviceCount:1,
+      DeviceGUID:3F49AD29-52D9-46A5-A608-203D54E7D12A,
+      DeviceIndex:0,
+      DisplayName:FX506HC,
+      FirstPluginNeedUpdate:0,
+      InfoIconEnable:0,
+      LightingMode:0,
+      LinkToDeviceEnable:0,
+      LocalFrameworkVersion:3.1.3.2,
+      LocalHtmlVersion:0,
+      LocalMainSDKVersion:2.00.22,
+      LocalSDKVersion:0,
+      NeedRestart:false,
+      PIDMode:0,
+      ServerFrameworkVersion:4.0.1.3,
+      ServerHtmlVersion:0,
+      ServerMainSDKVersion:2.00.40,
+      ServerSDKVersion:0,
+      SupportCreator:false,
+    },
+    DeviceId:,
+    DeviceName:FX506HC,
+    DeviceType:64,
+  },
+  1:{
+    Attributes:{
+      CheckBoxEnable:1,
+      DependentAppStatus:0,
+      DeviceCount:1,
+      DeviceGUID:68AB32E8-9C2B-4494-9921-E4E68F8B32A5,
+      DeviceIndex:0,
+      DisplayName:TUF GAMING M5,
+      FirstPluginNeedUpdate:0,
+      InfoIconEnable:0,
+      LightingMode:SUPPORTAURA,
+      LinkToDeviceEnable:1,
+      LocalFrameworkVersion:3.1.3.2,
+      LocalHtmlVersion:3.00.20,
+      LocalMainSDKVersion:2.00.22,
+      LocalSDKVersion:3.01.13,
+      NeedRestart:false,
+      PIDMode:USB,
+      ServerFrameworkVersion:4.0.1.3,
+      ServerHtmlVersion:3.00.20,
+      ServerMainSDKVersion:2.00.40,
+      ServerSDKVersion:3.01.21,
+      SupportCreator:true,
+    },
+    DeviceId:0B051898,
+    DeviceName:TUF GAMING M5,
+    DeviceType:1,
+  },
+  Count:2,
+  DeviceSDK:{
+  },
+}
+2023-09-04 21:13:10; INFO; GameLibrary Pluing; 9836; 16640] OnAsusDeviceChanged : Device Plugin - DeviceType=1, DeviceName:TUF GAMING M5, DeviceId=0B051898
+2023-09-04 21:13:10; INFO; GameLibrary Pluing; 9836; 16640] CallLibrary Start
+2023-09-04 21:13:10; INFO; GameLibrary Pluing; 9836; 16640] CallLibrary End
+2023-09-04 21:13:10; INFO; GameLibrary Pluing; 9836; 16640] Query AttachedDeviceList=>
+{
+  0:{
+    Attributes:{
+      CheckBoxEnable:1,
+      DependentAppStatus:0,
+      DeviceCount:1,
+      DeviceGUID:3F49AD29-52D9-46A5-A608-203D54E7D12A,
+      DeviceIndex:0,
+      DisplayName:FX506HC,
+      FirstPluginNeedUpdate:0,
+      InfoIconEnable:0,
+      LightingMode:0,
+      LinkToDeviceEnable:0,
+      LocalFrameworkVersion:3.1.3.2,
+      LocalHtmlVersion:0,
+      LocalMainSDKVersion:2.00.22,
+      LocalSDKVersion:0,
+      NeedRestart:false,
+      PIDMode:0,
+      ServerFrameworkVersion:4.0.1.3,
+      ServerHtmlVersion:0,
+      ServerMainSDKVersion:2.00.40,
+      ServerSDKVersion:0,
+      SupportCreator:false,
+    },
+    DeviceId:,
+    DeviceName:FX506HC,
+    DeviceType:64,
+  },
+  1:{
+    Attributes:{
+      CheckBoxEnable:1,
+      DependentAppStatus:0,
+      DeviceCount:1,
+      DeviceGUID:68AB32E8-9C2B-4494-9921-E4E68F8B32A5,
+      DeviceIndex:0,
+      DisplayName:TUF GAMING M5,
+      FirstPluginNeedUpdate:0,
+      InfoIconEnable:0,
+      LightingMode:SUPPORTAURA,
+      LinkToDeviceEnable:1,
+      LocalFrameworkVersion:3.1.3.2,
+      LocalHtmlVersion:3.00.20,
+      LocalMainSDKVersion:2.00.22,
+      LocalSDKVersion:3.01.13,
+      NeedRestart:false,
+      PIDMode:USB,
+      ServerFrameworkVersion:4.0.1.3,
+      ServerHtmlVersion:3.00.20,
+      ServerMainSDKVersion:2.00.40,
+      ServerSDKVersion:3.01.21,
+      SupportCreator:true,
+    },
+    DeviceId:0B051898,
+    DeviceName:TUF GAMING M5,
+    DeviceType:1,
+  },
+  Count:2,
+  DeviceSDK:{
+  },
+}
+2023-09-04 21:13:10; INFO; DenoiseAI Pluing; 9836; 16640] OnAsusDeviceChanged => Device Plugin - DeviceType=1, DeviceName:TUF GAMING M5, DeviceId=0B051898
+2023-09-04 21:13:10; INFO; DenoiseAI Pluing; 9836; 16640] CallLibrary Start
+2023-09-04 21:13:10; INFO; DenoiseAI Pluing; 9836; 16640] CallLibrary End
+2023-09-04 21:13:10; INFO; DenoiseAI Pluing; 9836; 16640] Query AttachedDeviceList=>
+{
+  0:{
+    Attributes:{
+      CheckBoxEnable:1,
+      DependentAppStatus:0,
+      DeviceCount:1,
+      DeviceGUID:3F49AD29-52D9-46A5-A608-203D54E7D12A,
+      DeviceIndex:0,
+      DisplayName:FX506HC,
+      FirstPluginNeedUpdate:0,
+      InfoIconEnable:0,
+      LightingMode:0,
+      LinkToDeviceEnable:0,
+      LocalFrameworkVersion:3.1.3.2,
+      LocalHtmlVersion:0,
+      LocalMainSDKVersion:2.00.22,
+      LocalSDKVersion:0,
+      NeedRestart:false,
+      PIDMode:0,
+      ServerFrameworkVersion:4.0.1.3,
+      ServerHtmlVersion:0,
+      ServerMainSDKVersion:2.00.40,
+      ServerSDKVersion:0,
+      SupportCreator:false,
+    },
+    DeviceId:,
+    DeviceName:FX506HC,
+    DeviceType:64,
+  },
+  1:{
+    Attributes:{
+      CheckBoxEnable:1,
+      DependentAppStatus:0,
+      DeviceCount:1,
+      DeviceGUID:68AB32E8-9C2B-4494-9921-E4E68F8B32A5,
+      DeviceIndex:0,
+      DisplayName:TUF GAMING M5,
+      FirstPluginNeedUpdate:0,
+      InfoIconEnable:0,
+      LightingMode:SUPPORTAURA,
+      LinkToDeviceEnable:1,
+      LocalFrameworkVersion:3.1.3.2,
+      LocalHtmlVersion:3.00.20,
+      LocalMainSDKVersion:2.00.22,
+      LocalSDKVersion:3.01.13,
+      NeedRestart:false,
+      PIDMode:USB,
+      ServerFrameworkVersion:4.0.1.3,
+      ServerHtmlVersion:3.00.20,
+      ServerMainSDKVersion:2.00.40,
+      ServerSDKVersion:3.01.21,
+      SupportCreator:true,
+    },
+    DeviceId:0B051898,
+    DeviceName:TUF GAMING M5,
+    DeviceType:1,
+  },
+  Count:2,
+  DeviceSDK:{
+  },
+}
+2023-09-04 21:13:10; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:10; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:10; INFO; User Session Manager; 9836; 18664] OnDeviceChange Start
+2023-09-04 21:13:10; INFO; User Session Manager; 9836; 18664] OnDeviceChange End
+2023-09-04 21:13:10; INFO; WebSocketClientPlugin; 9836; 8540] PushReceiveWebSocketMessage Receiving Message, Receiver: {E43C9C38-7DBD-4F80-82E9-B71B5C9F762E}
+2023-09-04 21:13:10; INFO; WebSocketClientPlugin; 9836; 8540] PushReceiveWebSocketMessage Bypassing Message, Hash: 6767987498016116720
+2023-09-04 21:13:10; INFO; WebSocketClientPlugin; 9836; 8540] CallLibrary Start
+2023-09-04 21:13:10; INFO; WebSocketClientPlugin; 9836; 8540] CallLibrary End
+2023-09-04 21:13:10; INFO; WebSocketClientPlugin; 9836; 8540] PushReceiveWebSocketMessage Bypass Success
+2023-09-04 21:13:10; INFO; WebSocketClientPlugin; 9836; 8540] PushReceiveWebSocketMessage Returning Message
+2023-09-04 21:13:10; INFO; WebSocketClientPlugin; 9836; 8540] DoSendWebSocketMessage Get Sending Request, Returner: {e43c9c38-7dbd-4f80-82e9-b71b5c9f762e}
+2023-09-04 21:13:10; INFO; WebSocketClientPlugin; 9836; 8540] DoGenerateWebSocketMessage Retrieve Message from Request Success, Hash: 6767987498016116720
+2023-09-04 21:13:10; INFO; WebSocketClientPlugin; 9836; 8540] DoSendWebSocketMessageImpl Sending Message
+2023-09-04 21:13:10; INFO; WebSocketClientPlugin; 9836; 8540] DoSendWebSocketMessageImpl Send Success
+2023-09-04 21:13:10; INFO; WebSocketClientPlugin; 9836; 8540] DoSendWebSocketMessage Generate XML Message: 1, Send Message: 1
+2023-09-04 21:13:10; INFO; WebSocketClientPlugin; 9836; 8540] PushReceiveWebSocketMessage Return Success
+2023-09-04 21:13:11; INFO; WebSocketClientPlugin; 9836; 9624] PushReceiveWebSocketMessage Receiving Message, Receiver: {4A47B00C-D8DA-4178-965B-F62CD40886B1}
+2023-09-04 21:13:11; INFO; WebSocketClientPlugin; 9836; 9624] PushReceiveWebSocketMessage Bypassing Message, Hash: 17215255312183518004
+2023-09-04 21:13:11; INFO; WebSocketClientPlugin; 9836; 9624] CallLibrary Start
+2023-09-04 21:13:11; INFO; WebSocketClientPlugin; 9836; 9624] CallLibrary End
+2023-09-04 21:13:11; INFO; WebSocketClientPlugin; 9836; 9624] PushReceiveWebSocketMessage Bypass Success
+2023-09-04 21:13:11; INFO; DenoiseAI Pluing; 9836; 16640] OnRLSMessage => 18:
+2023-09-04 21:13:11; WARNING; Aura Pluing; 9836; 14276] [RescanThread] RescanThread start
+2023-09-04 21:13:11; WARNING; Aura Pluing; 9836; 14276] [RescanThread] RescanThread into CoInitializeEx
+2023-09-04 21:13:11; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][DevicePluginRescanNotification] Start
+2023-09-04 21:13:11; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][RescanFromLightingService] Start
+2023-09-04 21:13:11; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][DevicePluginRescanNotification] Enter Lock
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][RescanFromLightingService] End
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [AuraSyncDeviceClass][GetDeviceStatusNew] Start
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [AuraSyncDeviceClass][GetDeviceStatusNew] Enter Lock
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][GetDeviceListFromLightingService] from GetLightingDeviceStatus Start
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][GetDeviceListFromLightingService] GetDeviceListFromLightingService FunctionKey LOCK from GetLightingDeviceStatus
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][GetDeviceListFromLightingService] Enter LOCK from GetLightingDeviceStatus
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 20336] [AuraServiceHelper][GetDeviceCap] GetDeviceStatus SUCCESS
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 20336] [AuraServiceHelper][GetDeviceCap] GetDeviceCap SUCCESS
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 20336] [AuraServiceHelper][GetDeviceCap] QueryAllDevice SUCCESS
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 20336] [AuraServiceHelper][GetDeviceCap] GetDevList SUCCESS
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 20336] [ROGAuraInterface][UpdateDeviceOtherSettings] In
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 20336] [ROGAuraInterface][UpdateDeviceOtherSettings] Count = 1 Assign StatusReady type = 1
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 20336] [ROGAuraInterface][UpdateDeviceOtherSettings] End
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][GetDeviceListFromLightingService] GetDeviceListFromLightingService FunctionKey UNLOCK from GetLightingDeviceStatus
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][GetDeviceListFromLightingService] from GetLightingDeviceStatus End
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [AuraSyncDeviceClass][GetDeviceStatusNew] At least one AuraSync devices are not in gameMode
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [AuraSyncDeviceClass][GetDeviceStatusNew] End
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [AuraSyncDeviceClass][GetMatrixLEDDevice] In
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [AuraSyncDeviceClass][GetMatrixLEDDevice] Enter Lock
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][GetDeviceListFromLightingService] from GetMatrixLEDDevice Start
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][GetDeviceListFromLightingService] GetDeviceListFromLightingService FunctionKey LOCK from GetMatrixLEDDevice
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][GetDeviceListFromLightingService] Enter LOCK from GetMatrixLEDDevice
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][GetDeviceListFromLightingService] Already get device or suspend, skip and unlock from GetMatrixLEDDevice
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 14276] [ROGAuraInterface][UpdateDeviceOtherSettings] In
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][UpdateDeviceOtherSettings] Count = 0 Assign StatusReady type = 64
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][UpdateDeviceOtherSettings] Count = 1 Assign StatusReady type = 1
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 14276] [ROGAuraInterface][UpdateDeviceOtherSettings] End
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][GetDeviceListFromLightingService] from GetMatrixLEDDevice End
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [AuraSyncDeviceClass][GetMatrixLEDDevice] UnLock
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 14276] [AuraSyncDeviceLog][GetMatrixLEDDevice] Set Matrix Attributes done
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][SetMatrixScriptToService] Start
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 14276] [ROGAuraInterface][SetMatrixScriptToService] from MLSMApplyMatrixAll Start FunctionKey Lock
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][SetMatrixScriptToService] Enter Lock
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 14276] [ROGAuraInterface][SetMatrixScriptToService] from MLSMApplyMatrixAll End FunctionKey Unlock
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][SetMatrixScriptToService] End
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [AuraSyncDeviceClass][GetMatrixLEDDevice] End
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 14276] CallLibrary Start
+2023-09-04 21:13:12; INFO; ScenarioProfilePlugIn; 9836; 14276] ProcessRequest : ScenarioProfileReceiveServiceMessage
+2023-09-04 21:13:12; INFO; ScenarioProfilePlugIn; 9836; 14276] (CLR_SetCacheXml) AppTag : AURA_Sync, GUID : {6AD2878E-6F59-4F34-BEE4-3F5A994A006D}, Mode : 4, ModeKey : 4, Type : Service_App
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 14276] CallLibrary End
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [ROGAuraInterface][ApplyMatrixLED] Device count = 0
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 14276] CallLibrary Start
+2023-09-04 21:13:12; INFO; Aura Pluing; 9836; 14276] CallLibrary End
+2023-09-04 21:13:12; WARNING; Aura Pluing; 9836; 14276] [RescanThread] RescanThread end
+2023-09-04 21:13:14; INFO; AC_FDSPlugIn; 9836; 5632] CallLibrary Start
+2023-09-04 21:13:14; INFO; ScenarioProfilePlugIn; 9836; 5632] ProcessRequest : DoForegroundEvent
+2023-09-04 21:13:14; INFO; ScenarioProfilePlugIn; 9836; 5632] (DoForegroundEvent) PID=11084, Path="Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy!App", AppType=UWP
+2023-09-04 21:13:14; INFO; ScenarioProfilePlugIn; 9836; 5632] (DoForegroundEvent) isFilter = 1, AutoApplyOnOff= On
+2023-09-04 21:13:14; INFO; ScenarioProfilePlugIn; 9836; 5632] Finish DoForegroundEvent()
+2023-09-04 21:13:14; INFO; AC_FDSPlugIn; 9836; 5632] CallLibrary End
+2023-09-04 21:13:14; INFO; AC_FDSPlugIn; 9836; 15848] CallLibrary Start
+2023-09-04 21:13:14; INFO; AC_FDSPlugIn; 9836; 15848] CallLibrary End
+2023-09-04 21:13:26; INFO; Loopback Stream; 9836; 19584] CallLibrary Start
+2023-09-04 21:13:26; INFO; Loopback Stream; 9836; 19584] CallLibrary End
+2023-09-04 21:13:48; INFO; AC_FDSPlugIn; 9836; 18468] CallLibrary Start
+2023-09-04 21:13:48; INFO; ScenarioProfilePlugIn; 9836; 18468] ProcessRequest : DoForegroundEvent
+2023-09-04 21:13:48; INFO; ScenarioProfilePlugIn; 9836; 18468] (DoForegroundEvent) PID=8856, Path="C:\Windows\explorer.exe", AppType=WIN32
+2023-09-04 21:13:48; INFO; ScenarioProfilePlugIn; 9836; 18468] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:13:48; INFO; ScenarioProfilePlugIn; 9836; 18468] (MonitorHandler) No linked profile
+2023-09-04 21:13:48; INFO; ScenarioProfilePlugIn; 9836; 18468] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:13:48; INFO; ScenarioProfilePlugIn; 9836; 18468] Finish DoForegroundEvent()
+2023-09-04 21:13:48; INFO; AC_FDSPlugIn; 9836; 18468] CallLibrary End
+2023-09-04 21:13:48; INFO; AC_FDSPlugIn; 9836; 9696] CallLibrary Start
+2023-09-04 21:13:48; INFO; AC_FDSPlugIn; 9836; 9696] CallLibrary End
+2023-09-04 21:13:56; INFO; Loopback Stream; 9836; 15920] CallLibrary Start
+2023-09-04 21:13:56; INFO; Loopback Stream; 9836; 15920] CallLibrary End
+2023-09-04 21:14:19; INFO; AC_FDSPlugIn; 9836; 12444] CallLibrary Start
+2023-09-04 21:14:19; INFO; ScenarioProfilePlugIn; 9836; 12444] ProcessRequest : DoForegroundEvent
+2023-09-04 21:14:19; INFO; ScenarioProfilePlugIn; 9836; 12444] (DoForegroundEvent) PID=11092, Path="Microsoft.Windows.Search_cw5n1h2txyewy!CortanaUI", AppType=UWP
+2023-09-04 21:14:19; INFO; ScenarioProfilePlugIn; 9836; 12444] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:14:19; INFO; ScenarioProfilePlugIn; 9836; 12444] (MonitorHandler) No linked profile
+2023-09-04 21:14:19; INFO; ScenarioProfilePlugIn; 9836; 12444] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:14:19; INFO; ScenarioProfilePlugIn; 9836; 12444] Finish DoForegroundEvent()
+2023-09-04 21:14:19; INFO; AC_FDSPlugIn; 9836; 12444] CallLibrary End
+2023-09-04 21:14:19; INFO; AC_FDSPlugIn; 9836; 9736] CallLibrary Start
+2023-09-04 21:14:19; INFO; AC_FDSPlugIn; 9836; 9736] CallLibrary End
+2023-09-04 21:14:23; INFO; AC_FDSPlugIn; 9836; 20860] CallLibrary Start
+2023-09-04 21:14:23; INFO; ScenarioProfilePlugIn; 9836; 20860] ProcessRequest : DoForegroundEvent
+2023-09-04 21:14:23; INFO; ScenarioProfilePlugIn; 9836; 20860] (DoForegroundEvent) PID=12708, Path="Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy!App", AppType=UWP
+2023-09-04 21:14:23; INFO; ScenarioProfilePlugIn; 9836; 20860] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:14:23; INFO; ScenarioProfilePlugIn; 9836; 20860] (MonitorHandler) No linked profile
+2023-09-04 21:14:23; INFO; ScenarioProfilePlugIn; 9836; 20860] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:14:23; INFO; ScenarioProfilePlugIn; 9836; 20860] Finish DoForegroundEvent()
+2023-09-04 21:14:23; INFO; AC_FDSPlugIn; 9836; 20860] CallLibrary End
+2023-09-04 21:14:23; INFO; AC_FDSPlugIn; 9836; 20864] CallLibrary Start
+2023-09-04 21:14:23; INFO; AC_FDSPlugIn; 9836; 20864] CallLibrary End
+2023-09-04 21:14:26; INFO; Loopback Stream; 9836; 21288] CallLibrary Start
+2023-09-04 21:14:26; INFO; Loopback Stream; 9836; 21288] CallLibrary End
+2023-09-04 21:14:27; WARNING; AEF Core; 9836; 9388] (ACLocalStateWatcher)Erro : (offset)1 + (NextEntryOffset)25 > (bytesRead)0.
+
+2023-09-04 21:14:27; WARNING; AEF Core; 9836; 9388] (ACLocalStateWatcher)GetOverlappedResult failed, error code:5
+2023-09-04 21:14:27; WARNING; AEF Core; 9836; 9388] (ACLocalStateWatcher)ReadDirectoryChangesW failed, error code:5
+2023-09-04 21:14:27; ERROR; AEF Core; 9836; 15716] (UWPInfoMonitor(ArmouryCrate))Uninstall event create thread to confirm if reset or uninstall.
+2023-09-04 21:14:27; ERROR; AEF Core; 9836; 15716] (UWPInfoMonitor(ArmouryCrate))Uninstall event, but confirming thread exist, ignore....
+2023-09-04 21:14:28; INFO; AC_FDSPlugIn; 9836; 20712] CallLibrary Start
+2023-09-04 21:14:28; INFO; ScenarioProfilePlugIn; 9836; 20712] ProcessRequest : DoForegroundEvent
+2023-09-04 21:14:28; INFO; ScenarioProfilePlugIn; 9836; 20712] (DoForegroundEvent) PID=8856, Path="C:\Windows\explorer.exe", AppType=WIN32
+2023-09-04 21:14:28; INFO; ScenarioProfilePlugIn; 9836; 20712] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:14:28; INFO; ScenarioProfilePlugIn; 9836; 20712] (MonitorHandler) No linked profile
+2023-09-04 21:14:28; INFO; ScenarioProfilePlugIn; 9836; 20712] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:14:28; INFO; ScenarioProfilePlugIn; 9836; 20712] Finish DoForegroundEvent()
+2023-09-04 21:14:28; INFO; AC_FDSPlugIn; 9836; 20712] CallLibrary End
+2023-09-04 21:14:28; INFO; AC_FDSPlugIn; 9836; 20716] CallLibrary Start
+2023-09-04 21:14:28; INFO; AC_FDSPlugIn; 9836; 20716] CallLibrary End
+2023-09-04 21:14:30; INFO; AC_FDSPlugIn; 9836; 20980] CallLibrary Start
+2023-09-04 21:14:30; INFO; ScenarioProfilePlugIn; 9836; 20980] ProcessRequest : DoForegroundEvent
+2023-09-04 21:14:30; INFO; ScenarioProfilePlugIn; 9836; 20980] (DoForegroundEvent) PID=11092, Path="Microsoft.Windows.Search_cw5n1h2txyewy!CortanaUI", AppType=UWP
+2023-09-04 21:14:30; INFO; ScenarioProfilePlugIn; 9836; 20980] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:14:30; INFO; ScenarioProfilePlugIn; 9836; 20980] (MonitorHandler) No linked profile
+2023-09-04 21:14:30; INFO; ScenarioProfilePlugIn; 9836; 20980] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:14:30; INFO; ScenarioProfilePlugIn; 9836; 20980] Finish DoForegroundEvent()
+2023-09-04 21:14:30; INFO; AC_FDSPlugIn; 9836; 20980] CallLibrary End
+2023-09-04 21:14:30; INFO; AC_FDSPlugIn; 9836; 20964] CallLibrary Start
+2023-09-04 21:14:30; INFO; AC_FDSPlugIn; 9836; 20964] CallLibrary End
+2023-09-04 21:14:32; WARNING; AEF Core; 9836; 9388] (ACLocalStateWatcher)ReadDirectoryChangesW failed, error code:5
+2023-09-04 21:14:33; INFO; AC_FDSPlugIn; 9836; 20940] CallLibrary Start
+2023-09-04 21:14:33; INFO; ScenarioProfilePlugIn; 9836; 20940] ProcessRequest : DoForegroundEvent
+2023-09-04 21:14:33; INFO; ScenarioProfilePlugIn; 9836; 20940] (DoForegroundEvent) PID=15848, Path="C:\Windows\System32\Taskmgr.exe", AppType=WIN32
+2023-09-04 21:14:33; INFO; ScenarioProfilePlugIn; 9836; 20940] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:14:33; INFO; ScenarioProfilePlugIn; 9836; 20940] (MonitorHandler) No linked profile
+2023-09-04 21:14:33; INFO; ScenarioProfilePlugIn; 9836; 20940] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:14:33; INFO; ScenarioProfilePlugIn; 9836; 20940] Finish DoForegroundEvent()
+2023-09-04 21:14:33; INFO; AC_FDSPlugIn; 9836; 20940] CallLibrary End
+2023-09-04 21:14:33; INFO; AC_FDSPlugIn; 9836; 20108] CallLibrary Start
+2023-09-04 21:14:33; INFO; AC_FDSPlugIn; 9836; 20108] CallLibrary End
+2023-09-04 21:14:35; INFO; ScenarioProfilePlugIn; 9836; 2340] UWPInfoEvent::Uninstalled
+2023-09-04 21:14:35; INFO; GameLibrary Pluing; 9836; 2340] UWPInfoEvent::UWP_INFO_CHANGED
+2023-09-04 21:14:35; INFO; GameLibrary Pluing; 9836; 2340] UWPInfoEvent::Uninstalled
+2023-09-04 21:14:35; INFO; GridPlugin; 9836; 2340] UWPInfoEvent::Uninstalled : {
+  IsInstalled:0,
+}
+2023-09-04 21:14:35; INFO; User Experience Improvement Plugin; 9836; 2340] UWPInfoEvent::Uninstalled
+2023-09-04 21:14:35; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:35; INFO; Utility Plugin; 9836; 2340] CallLibrary Start
+2023-09-04 21:14:35; INFO; ScenarioProfilePlugIn; 9836; 2340] ProcessRequest : SupportHardwareStatusChange
+2023-09-04 21:14:35; INFO; Utility Plugin; 9836; 2340] CallLibrary End
+2023-09-04 21:14:36; INFO; AC_FDSPlugIn; 9836; 12244] CallLibrary Start
+2023-09-04 21:14:36; INFO; ScenarioProfilePlugIn; 9836; 12244] ProcessRequest : DoForegroundEvent
+2023-09-04 21:14:36; INFO; ScenarioProfilePlugIn; 9836; 12244] (DoForegroundEvent) PID=21188, Path="C:\Users\User\AppData\Local\Temp\{EA96AA9C-93AD-4BB9-A539-41D62F18EDB7}\Armoury Crate Uninstall Tool.exe", AppType=WIN32
+2023-09-04 21:14:36; INFO; ScenarioProfilePlugIn; 9836; 12244] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:14:36; INFO; ScenarioProfilePlugIn; 9836; 12244] (MonitorHandler) No linked profile
+2023-09-04 21:14:36; INFO; ScenarioProfilePlugIn; 9836; 12244] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:14:36; INFO; ScenarioProfilePlugIn; 9836; 12244] Finish DoForegroundEvent()
+2023-09-04 21:14:36; INFO; AC_FDSPlugIn; 9836; 12244] CallLibrary End
+2023-09-04 21:14:36; INFO; AC_FDSPlugIn; 9836; 20564] CallLibrary Start
+2023-09-04 21:14:36; INFO; AC_FDSPlugIn; 9836; 20564] CallLibrary End
+2023-09-04 21:14:42; INFO; AC_FDSPlugIn; 9836; 10896] CallLibrary Start
+2023-09-04 21:14:42; INFO; ScenarioProfilePlugIn; 9836; 10896] ProcessRequest : DoForegroundEvent
+2023-09-04 21:14:42; INFO; ScenarioProfilePlugIn; 9836; 10896] (DoForegroundEvent) PID=15848, Path="C:\Windows\System32\Taskmgr.exe", AppType=WIN32
+2023-09-04 21:14:42; INFO; ScenarioProfilePlugIn; 9836; 10896] (MonitorHandler) CurrentProfile is ""
+2023-09-04 21:14:42; INFO; ScenarioProfilePlugIn; 9836; 10896] (MonitorHandler) No linked profile
+2023-09-04 21:14:42; INFO; ScenarioProfilePlugIn; 9836; 10896] (MonitorHandler) CurrentPID : 0, not existed
+2023-09-04 21:14:42; INFO; ScenarioProfilePlugIn; 9836; 10896] Finish DoForegroundEvent()
+2023-09-04 21:14:42; INFO; AC_FDSPlugIn; 9836; 10896] CallLibrary End
+2023-09-04 21:14:42; INFO; AC_FDSPlugIn; 9836; 14712] CallLibrary Start
+2023-09-04 21:14:42; INFO; AC_FDSPlugIn; 9836; 14712] CallLibrary End
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:44; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:45; INFO; Aura Pluing; 9836; 4248] AuraWallpaper's Registry is not Exist !!!
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 5
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] OnUninstall Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] OnUninstall End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 5
+2023-09-04 21:14:47; INFO; GPU Power Saving Plugin ; 9836; 1932] Enter OnUninstall()
+2023-09-04 21:14:47; INFO; Free Up Memory Plugin; 9836; 19252] Enter DeleteFreeUpMemoryCacheFolder()
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] OnUninstall, notify bios bitlocker status
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] Enter NotifyBitLockerStatus()
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before System Folder
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After System Folder is C:\Windows\system32
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before IsBitLockerEnabled()
+2023-09-04 21:14:47; INFO; Free Up Memory Plugin; 9836; 19252] DeleteFreeUpMemoryCacheFolder() Finish
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 11852] Before Library Macro Key Plugin into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 11852] (0)Macro Key Plugin into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: Macro Key Plugin, RunningThread 0000000000000B7C
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library Macro Key Plugin OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 16112] Before Library ScenarioProfilePlugIn into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; ScenarioProfilePlugIn; 9836; 16112] Enter Uninitialize()
+2023-09-04 21:14:47; INFO; ScenarioProfilePlugIn; 9836; 16112] Uninitialize() Finish
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 16112] (0)ScenarioProfilePlugIn into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: ScenarioProfilePlugIn, RunningThread 0000000000000BC0
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library ScenarioProfilePlugIn OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; GPU Power Saving Plugin ; 9836; 1932] Success resume to iGPU OFF, it is same as BIOS
+
+2023-09-04 21:14:47; INFO; GPU Power Saving Plugin ; 9836; 1932] Enter DeleteGPUCache()
+2023-09-04 21:14:47; INFO; GPU Power Saving Plugin ; 9836; 1932] DeleteGPUCache() Finish
+2023-09-04 21:14:47; INFO; GPU Power Saving Plugin ; 9836; 1932] Enter CloseGPUToast()
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Try Get ConversaionStatus
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Finish Get ConversaionStatus
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before release COM
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After release COM
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After IsBitLockerEnabled() = 0
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] CheckPCR7Stats() Enter
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] m_uiPCR7BindingStatus = 0
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] CheckPCR7Stats() Finish, successful
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before Two_WMIMethod_INT()
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] dwBitLockerEnable = 0 ; m_b2023Project = 0 ; m_uiPCR7BindingStatus = 0
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After Two_WMIMethod_INT()
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] Fail because bios does not support WMI ID 0x00060096
+
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] NotifyBitLockerStatus() Finish
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] CallLibrary Start
+2023-09-04 21:14:47; INFO; ScenarioProfilePlugIn; 9836; 8408] ProcessRequest : SupportHardwareStatusChange
+2023-09-04 21:14:47; INFO; Utility Plugin; 9836; 8408] CallLibrary End
+2023-09-04 21:14:47; INFO; GPU Power Saving Plugin ; 9836; 1932] CloseGPUToast() Finish
+2023-09-04 21:14:47; INFO; GPU Power Saving Plugin ; 9836; 1932] OnUninstall() Finish
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15384] Before Library Throttle Plugin into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15384] (20)Throttle Plugin into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: Throttle Plugin, RunningThread 0000000000000ED8
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library Throttle Plugin OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 19252] Before Library Free Up Memory Plugin into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 19252] (0)Free Up Memory Plugin into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: Free Up Memory Plugin, RunningThread 0000000000000DEC
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library Free Up Memory Plugin OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 1932] Before Library GPU Power Saving Plugin  into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; GPU Power Saving Plugin ; 9836; 1932] Enter Uninitialize()
+2023-09-04 21:14:47; INFO; GPU Power Saving Plugin ; 9836; 1932] Uninitialize() Finish
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 1932] (0)GPU Power Saving Plugin  into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: GPU Power Saving Plugin , RunningThread 000000000000108C
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library GPU Power Saving Plugin  OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 16964] Before Library HW Pluing into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 16964] (0)HW Pluing into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: HW Pluing, RunningThread 0000000000001334
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library HW Pluing OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 3508] Before Library Loopback Stream into RemoveChildLibrary
+2023-09-04 21:14:47; WARNING; AEF Core; 9836; 9808] Read packet failed from Service.
+2023-09-04 21:14:47; INFO; AEF Core; 9836; 9808] Leave GetPacket loop - Service.
+2023-09-04 21:14:47; INFO; Loopback Stream; 9836; 9808] Can not find the index to close.
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 3508] (3)Loopback Stream into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: Loopback Stream, RunningThread 0000000000000948
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library Loopback Stream OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 14992] Before Library ACStore Plugin into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 14992] (0)ACStore Plugin into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: ACStore Plugin, RunningThread 00000000000009FC
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library ACStore Plugin OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15004] Before Library DeviceServicePlugin into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15004] (0)DeviceServicePlugin into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: DeviceServicePlugin, RunningThread 0000000000000BE8
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library DeviceServicePlugin OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 17168] Before Library GameLibrary Pluing into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 17168] (1)GameLibrary Pluing into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: GameLibrary Pluing, RunningThread 0000000000000F5C
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library GameLibrary Pluing OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 4056] Before Library DenoiseAI Pluing into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 4056] (3)DenoiseAI Pluing into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: DenoiseAI Pluing, RunningThread 0000000000000F90
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library DenoiseAI Pluing OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 13064] Before Library UserCenterPlugin into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 13064] (0)UserCenterPlugin into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: UserCenterPlugin, RunningThread 0000000000000CCC
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library UserCenterPlugin OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 8596] Before Library AC_FDSPlugIn into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 8596] (6)AC_FDSPlugIn into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: AC_FDSPlugIn, RunningThread 0000000000000A68
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library AC_FDSPlugIn OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15020] Before Library Aura Pluing into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15020] (8)Aura Pluing into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: Aura Pluing, RunningThread 00000000000007D0
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library Aura Pluing OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 13880] Before Library SoulKey Plugin into RemoveChildLibrary
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 13880] (0)SoulKey Plugin into RemoveChildLibrary OK
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] StopRunning, Name: SoulKey Plugin, RunningThread 0000000000000AB4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] ---Stopped to run library SoulKey Plugin OK---
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:14:47; INFO; User Session Manager; 9836; 11224] Before Library GameBoxPlugIn into RemoveChildLibrary
+2023-09-04 21:14:48; INFO; User Session Manager; 9836; 11224] (945)GameBoxPlugIn into RemoveChildLibrary OK
+2023-09-04 21:14:48; INFO; User Session Manager; 9836; 15388] StopRunning, Name: GameBoxPlugIn, RunningThread 0000000000000C18
+2023-09-04 21:14:48; INFO; User Session Manager; 9836; 15388] ---Stopped to run library GameBoxPlugIn OK---
+2023-09-04 21:14:48; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:14:48; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:14:52; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:14:52; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 18664] OnRegisteredWindowMessage Start
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 18664] OnRegisteredWindowMessage End
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 18000] Before Library GameVisual Plugin into RemoveChildLibrary
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 18000] (0)GameVisual Plugin into RemoveChildLibrary OK
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] StopRunning, Name: GameVisual Plugin, RunningThread 0000000000000FEC
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] ---Stopped to run library GameVisual Plugin OK---
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 2344] Before Library Monitor Plugin into RemoveChildLibrary
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 2344] (0)Monitor Plugin into RemoveChildLibrary OK
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] StopRunning, Name: Monitor Plugin, RunningThread 0000000000001348
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] ---Stopped to run library Monitor Plugin OK---
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 11396] Before Library Mobile Plugin into RemoveChildLibrary
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 11396] (0)Mobile Plugin into RemoveChildLibrary OK
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] StopRunning, Name: Mobile Plugin, RunningThread 0000000000001284
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] ---Stopped to run library Mobile Plugin OK---
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 11128] Before Library GridPlugin into RemoveChildLibrary
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 11128] (0)GridPlugin into RemoveChildLibrary OK
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] StopRunning, Name: GridPlugin, RunningThread 0000000000001320
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] ---Stopped to run library GridPlugin OK---
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 17904] Before Library WebSocketClientPlugin into RemoveChildLibrary
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 17904] (0)WebSocketClientPlugin into RemoveChildLibrary OK
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] StopRunning, Name: WebSocketClientPlugin, RunningThread 00000000000012EC
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] ---Stopped to run library WebSocketClientPlugin OK---
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 8] Before Library User Experience Improvement Plugin into RemoveChildLibrary
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 8] (0)User Experience Improvement Plugin into RemoveChildLibrary OK
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] StopRunning, Name: User Experience Improvement Plugin, RunningThread 00000000000012CC
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] ---Stopped to run library User Experience Improvement Plugin OK---
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 8408] Before Library Utility Plugin into RemoveChildLibrary
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] Uninitialize, notify bios bitlocker status
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] Enter NotifyBitLockerStatus()
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before System Folder
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After System Folder is C:\Windows\system32
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before IsBitLockerEnabled()
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Try Get ConversaionStatus
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Finish Get ConversaionStatus
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before release COM
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After release COM
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After IsBitLockerEnabled() = 0
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] CheckPCR7Stats() Enter
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] m_uiPCR7BindingStatus = 0
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] CheckPCR7Stats() Finish, successful
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: Before Two_WMIMethod_INT()
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] dwBitLockerEnable = 0 ; m_b2023Project = 0 ; m_uiPCR7BindingStatus = 0
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] IsBitLockerEnabled: After Two_WMIMethod_INT()
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] Fail because bios does not support WMI ID 0x00060096
+
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] NotifyBitLockerStatus() Finish
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] (EventDebounce)~EventDebounce start
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 14224] (EventDebounce)NewDebounceEvent end
+2023-09-04 21:15:27; INFO; Utility Plugin; 9836; 8408] (EventDebounce)~EventDebounce end
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 8408] (17)Utility Plugin into RemoveChildLibrary OK
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] StopRunning, Name: Utility Plugin, RunningThread 000000000000136C
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] ---Stopped to run library Utility Plugin OK---
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 16404] Before Library Virtual Drive Plugin into RemoveChildLibrary
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 16404] (0)Virtual Drive Plugin into RemoveChildLibrary OK
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] StopRunning, Name: Virtual Drive Plugin, RunningThread 0000000000001410
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] ---Stopped to run library Virtual Drive Plugin OK---
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 4
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT Start
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 4704] Before Library AEF Core uninitialize
+2023-09-04 21:15:27; WARNING; AEF Core; 9836; 16640] (AsusDeviceMonitor)ReadPipe failed:0x80004004, isRunnins:0
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 4704] (3)Library AEF Core uninitialize OK
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] StopRunning, Name: AEF Core, RunningThread 00000000000008E8
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] ---Stopped to run library AEF Core OK---
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] USH_COMMAND_UNINIT End
+2023-09-04 21:15:27; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 4
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; AEF Core; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; AEF Core; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; SoulKey Plugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; SoulKey Plugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; GameBoxPlugIn; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; GameBoxPlugIn; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; DeviceServicePlugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; DeviceServicePlugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; Aura Pluing; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; Aura Pluing; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; Loopback Stream; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; Loopback Stream; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; ACStore Plugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; ACStore Plugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; WebSocketClientPlugin; 9836; 15220] PushUpdateWebSocketStatus Update Status: Connect Fail
+2023-09-04 21:15:28; WARNING; WebSocketClientPlugin; 9836; 15220] DoReconnectWebSocketServer Reconnecting Abort: Process Is Not Initialized
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; UserCenterPlugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; UserCenterPlugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; AC_FDSPlugIn; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; AC_FDSPlugIn; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; Free Up Memory Plugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; Free Up Memory Plugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; DenoiseAI Pluing; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; DenoiseAI Pluing; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; GameLibrary Pluing; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; GameLibrary Pluing; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; GameVisual Plugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; GameVisual Plugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; GPU Power Saving Plugin ; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; GPU Power Saving Plugin ; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; GridPlugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; GridPlugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; HW Pluing; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; HW Pluing; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; Macro Key Plugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; Macro Key Plugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; Macro Key Plugin; 9836; 4324] MacroKey Plugin: leaving WndProcThrd!
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; Monitor Plugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; Monitor Plugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; Mobile Plugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; Mobile Plugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; ScenarioProfilePlugIn; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; ScenarioProfilePlugIn; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; WebSocketClientPlugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; WebSocketClientPlugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; Throttle Plugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; Throttle Plugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; User Experience Improvement Plugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; User Experience Improvement Plugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; Utility Plugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; Utility Plugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead Start, Command = 2
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE Start
+2023-09-04 21:15:28; INFO; Virtual Drive Plugin; 9836; 15388] Ready to leave
+2023-09-04 21:15:28; INFO; Virtual Drive Plugin; 9836; 15388] Complete to leave
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] USH_COMMAND_LEAVE End
+2023-09-04 21:15:28; INFO; User Session Manager; 9836; 15388] UserSessionPipeStreamServer OnRead End, Command = 2
+2023-09-04 21:15:28; CRITICAL; User Session Manager; 9836; 15084] /------------User Session Helper start to uninitialize, version: 5.3.0.0------------/
+2023-09-04 21:15:28; CRITICAL; User Session Manager; 9836; 15084] /------------User Session Helper uninitialized------------/
+2023-09-04 21:15:28; CRITICAL; User Session Main; 9836; 15084] WMain End

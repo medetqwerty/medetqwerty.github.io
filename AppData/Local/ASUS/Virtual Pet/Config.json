@@ -1,0 +1,106 @@
+{
+  "mDpiScale": {
+    "DpiScaleX": 1.0,
+    "DpiScaleY": 1.0,
+    "PixelsPerDip": 1.0,
+    "PixelsPerInchX": 96.0,
+    "PixelsPerInchY": 96.0
+  },
+  "windowLeft": 1736.5,
+  "windowTop": 583.23,
+  "windowProportionLeft": 0.90442708333333333,
+  "windowProportionTop": 0.54002777777777777,
+  "SecretKey_CountMax": 0,
+  "LastFeedingTime": "0001-01-01T00:00:00",
+  "SystemInfowindowList": [
+    {
+      "WindowRect": "1493,600,248,120",
+      "systemInfoType": 1,
+      "isCollapse": false,
+      "isVisible": false
+    },
+    {
+      "WindowRect": "858,459,248,120",
+      "systemInfoType": 2,
+      "isCollapse": false,
+      "isVisible": false
+    },
+    {
+      "WindowRect": "1059,551,248,120",
+      "systemInfoType": 4,
+      "isCollapse": false,
+      "isVisible": false
+    }
+  ],
+  "lastRecordUseTime": "2023-02-19T22:25:08.9121534+06:00",
+  "appScale": 0.32,
+  "Opacity": 1.0,
+  "Volume": 1.0,
+  "UserDoubleClickOption": 1,
+  "DisappearMilliSeconds": 3000,
+  "DisappearTimeUnit": 0,
+  "isDialogBoxOpened": true,
+  "isTopMost": true,
+  "isFullScreenActived": true,
+  "isMute": false,
+  "isSimpleMode": true,
+  "isWalkAroundMode": true,
+  "ContextMenuSettingList": [
+    {
+      "DisplayNameKey": "String_AdjustSize",
+      "ContextItemId": "Menu_Scale",
+      "MenuOrder": 0
+    },
+    {
+      "DisplayNameKey": "String_WalkAround",
+      "ContextItemId": "Menu_isWalkAround",
+      "MenuOrder": 1
+    },
+    {
+      "DisplayNameKey": "String_AlwaysOnTop",
+      "ContextItemId": "Menu_Topmost",
+      "MenuOrder": 2
+    },
+    {
+      "DisplayNameKey": "String_Startup",
+      "ContextItemId": "Menu_StartUp",
+      "MenuOrder": 3
+    }
+  ],
+  "OneTimeAlarm": "0001-01-01T00:00:00",
+  "FontFamily": "Segoe UI",
+  "isShowSystemInfoWindow": true,
+  "isActionSwapOpenedWindow": false,
+  "applyEffect": true,
+  "supportMatrix": false,
+  "introWindow": false,
+  "isFirstDragOmni": true,
+  "isFirstOpenShootingPlane": true,
+  "isFirstOpenSlotGame": true,
+  "isFirstOpenWAM": true,
+  "FastSwapInfowindowData": {
+    "DisplayPetActionList": [
+      {
+        "action": "Music",
+        "action_name": "Music",
+        "animation_represent": 1
+      },
+      {
+        "action": "Relieved",
+        "action_name": "Relieved",
+        "animation_represent": 1
+      },
+      {
+        "action": "Angry",
+        "action_name": "Angry",
+        "animation_represent": 20
+      },
+      {
+        "action": "Cool",
+        "action_name": "Cool",
+        "animation_represent": 40
+      }
+    ]
+  },
+  "isLiteVersion": true
+}

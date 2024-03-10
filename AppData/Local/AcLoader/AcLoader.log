@@ -1,0 +1,98 @@
+2022-12-30 16:34:57, : Driver Need Download and Install OOOOOO
+ 
+2022-12-30 16:34:57, : Driver by System
+ 
+2022-12-30 16:34:57, : Driver by System----OpenKey fail
+ 
+2022-12-30 16:34:57, : Driver Use Release Server
+ 
+2022-12-30 16:34:59, : Driver---IDE Download from: https://liveupdate01s.asus.com/pub/ASUS/LiveUpdate/Release//Motherboard//ARMOURY CRATE.ide 
+ 
+2022-12-30 16:34:59, : Driver---IDE Download to: C:\Users\User\AppData\Local\ArmouryLiveUpdate\ARMOURY CRATE\ARMOURY CRATE.ide 
+ 
+2022-12-30 16:34:59, : Driver Donload ide file OK... 
+ 
+2022-12-30 16:34:59, : Driver Download IDX Complete! 
+ 
+2022-12-30 16:34:59, : Driver Download file ing...
+ 
+2022-12-30 16:34:59, : Driver zip Downloading...!!!
+ 
+2022-12-30 16:34:59, : Driver---Download from: https://liveupdate01s.asus.com/pub/ASUS/mb/14Utilities/AC_loader_v32030.zip 
+ 
+2022-12-30 16:34:59, : Driver---Download to: C:\Users\User\AppData\Local\ArmouryLiveUpdate\AP_UPDATE\AC_loader_v32030.zip 
+ 
+2022-12-30 16:34:59, : Driver Start....Download ZIP !!
+ 
+2022-12-30 16:35:16, : Driver Start....Download ZIP !!
+ 
+2022-12-30 16:35:16, : Driver Write InstallFlag 
+ 
+2023-01-04 15:31:09, : Driver Need Download and Install OOOOOO
+ 
+2023-01-04 15:31:09, : Driver by System
+ 
+2023-01-04 15:31:09, : Driver Use Release Server
+ 
+2023-01-04 15:31:10, : Driver---IDE Download from: https://liveupdate01s.asus.com/pub/ASUS/LiveUpdate/Release//Motherboard//ARMOURY CRATE.ide 
+ 
+2023-01-04 15:31:10, : Driver---IDE Download to: C:\Users\User\AppData\Local\ArmouryLiveUpdate\ARMOURY CRATE\ARMOURY CRATE.ide 
+ 
+2023-01-04 15:31:10, : Driver Donload ide file OK... 
+ 
+2023-01-04 15:31:10, : Driver Download IDX Complete! 
+ 
+2023-01-04 15:31:10, : Driver Download file ing...
+ 
+2023-01-04 15:31:10, : Driver zip Downloading...!!!
+ 
+2023-01-04 15:31:10, : Driver---Download from: https://liveupdate01s.asus.com/pub/ASUS/mb/14Utilities/AC_loader_v32030.zip 
+ 
+2023-01-04 15:31:10, : Driver---Download to: C:\Users\User\AppData\Local\ArmouryLiveUpdate\AP_UPDATE\AC_loader_v32030.zip 
+ 
+2023-01-04 15:31:10, : Driver Start....Download ZIP !!
+ 
+2023-01-04 15:31:11, : Driver Download ZIP OK !! 
+ 
+2023-01-04 15:31:11, : Driver Downloaded and unzip ok!!! 
+ 
+2023-01-04 15:31:11, : Driver execute Updating!!!
+ 
+2023-01-04 15:31:11, : Driver---RUN Update: C:\Users\User\AppData\Local\ArmouryLiveUpdate\AP_UPDATE\AC_loader_v32030\ArmouryCrateInstaller.exe -driverinstall 
+ 
+2023-01-04 15:31:11, : Driver trigger Setup Finish!!!
+ 
+2023-02-19 02:01:01, : Driver Need Download and Install OOOOOO
+ 
+2023-02-19 02:01:01, : Driver by System
+ 
+2023-02-19 02:01:01, : Driver Use Release Server
+ 
+2023-02-19 02:01:02, : Driver---IDE Download from: https://liveupdate01s.asus.com/pub/ASUS/LiveUpdate/Release//Motherboard//ARMOURY CRATE.ide 
+ 
+2023-02-19 02:01:02, : Driver---IDE Download to: C:\Users\User\AppData\Local\ArmouryLiveUpdate\ARMOURY CRATE\ARMOURY CRATE.ide 
+ 
+2023-02-19 02:01:02, : Driver Donload ide file OK... 
+ 
+2023-02-19 02:01:02, : Driver Download IDX Complete! 
+ 
+2023-02-19 02:01:02, : Driver Download file ing...
+ 
+2023-02-19 02:01:02, : Driver zip Downloading...!!!
+ 
+2023-02-19 02:01:02, : Driver---Download from: https://liveupdate01s.asus.com/pub/ASUS/mb/14Utilities/AC_loader_v32052.zip 
+ 
+2023-02-19 02:01:02, : Driver---Download to: C:\Users\User\AppData\Local\ArmouryLiveUpdate\AP_UPDATE\AC_loader_v32052.zip 
+ 
+2023-02-19 02:01:02, : Driver Start....Download ZIP !!
+ 
+2023-02-19 02:01:05, : Driver Download ZIP OK !! 
+ 
+2023-02-19 02:01:06, : Driver Downloaded and unzip ok!!! 
+ 
+2023-02-19 02:01:06, : Driver execute Updating!!!
+ 
+2023-02-19 02:01:06, : Driver---RUN Update: C:\Users\User\AppData\Local\ArmouryLiveUpdate\AP_UPDATE\AC_loader_v32052\ArmouryCrateInstaller.exe -driverinstall 
+ 
+2023-02-19 02:01:06, : Driver trigger Setup Finish!!!
+ 
