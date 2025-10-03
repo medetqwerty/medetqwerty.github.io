@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TravelGo — Найди свой идеальный тур</title>
+    <meta name="description" content="Горящие туры, лучшие цены и удобное бронирование онлайн. TravelGo — подберём идеальный отдых." />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="logo">Travel<span>Go</span></div>
+        <nav class="nav">
+          <a href="#popular">Направления</a>
+          <a href="#calculator">Калькулятор</a>
+          <a href="#about">О нас</a>
+          <a href="#services">Услуги</a>
+          <a href="#reviews">Отзывы</a>
+          <a href="#gallery">Галерея</a>
+          <a href="#faq">FAQ</a>
+          <a href="#lead">Заявка</a>
+          <a href="#contacts">Контакты</a>
+        </nav>
+        <button class="btn btn-accent btn-sm" data-scroll="#lead">Оставить заявку</button>
+      </div>
+    </header>
+
+    <main>
+      <!-- Hero -->
+      <section class="hero" aria-label="Обложка">
+        <div class="hero-overlay"></div>
+        <div class="container hero-content">
+          <h1>Найди свой идеальный тур с TravelGo</h1>
+          <p>Горящие туры, лучшие цены, удобное бронирование онлайн</p>
+          <div class="hero-cta">
+            <button class="btn btn-accent" data-scroll="#calculator">Подобрать тур</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Popular Destinations -->
+      <section id="popular" class="section">
+        <div class="container">
+          <h2>Популярные направления</h2>
+          <div class="cards-grid" id="destinations">
+            <!-- Cards inserted by JS -->
+          </div>
+        </div>
+      </section>
+
+      <!-- Calculator -->
+      <section id="calculator" class="section alt">
+        <div class="container">
+          <h2>Калькулятор стоимости тура</h2>
+          <form id="calc-form" class="calc-form" novalidate>
+            <label>
+              Страна
+              <select id="country" required></select>
+            </label>
+            <label>
+              Количество дней
+              <input type="number" id="days" min="3" max="30" step="1" value="7" required />
+            </label>
+            <label>
+              Количество человек
+              <input type="number" id="people" min="1" max="10" step="1" value="2" required />
+            </label>
+            <div class="calc-result">
+              <span>Ориентировочная цена:</span>
+              <strong id="price">—</strong>
+            </div>
+            <button type="button" class="btn" id="calc-lead" data-scroll="#lead">Оставить заявку</button>
+          </form>
+        </div>
+      </section>
+
+      <!-- About -->
+      <section id="about" class="section">
+        <div class="container">
+          <h2>О компании</h2>
+          <p class="lead">Мы подбираем и продаём туры по всему миру уже более 10 лет. С нами — прозрачные цены, забота 24/7 и надёжные партнёры.</p>
+          <div class="stats">
+            <div class="stat">
+              <div class="icon">⏳</div>
+              <div class="stat-text"><strong>10+ лет</strong><span>опыта</span></div>
+            </div>
+            <div class="stat">
+              <div class="icon">😊</div>
+              <div class="stat-text"><strong>1000+</strong><span>довольных туристов</span></div>
+            </div>
+            <div class="stat">
+              <div class="icon">🕘</div>
+              <div class="stat-text"><strong>Поддержка</strong><span>24/7</span></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Services -->
+      <section id="services" class="section alt">
+        <div class="container">
+          <h2>Услуги</h2>
+          <div class="cards-grid services">
+            <article class="card">
+              <h3>Подбор туров</h3>
+              <p>Индивидуальный подбор по вашим датам, предпочтениям и бюджету.</p>
+            </article>
+            <article class="card">
+              <h3>Визовая поддержка</h3>
+              <p>Консультации и помощь в оформлении виз и страховок.</p>
+            </article>
+            <article class="card">
+              <h3>Бронирование отелей и авиабилетов</h3>
+              <p>Широкая сеть партнёров и лучшие тарифы.</p>
+            </article>
+            <article class="card">
+              <h3>Экскурсии</h3>
+              <p>Популярные и авторские экскурсионные программы.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- Reviews -->
+      <section id="reviews" class="section">
+        <div class="container">
+          <h2>Отзывы клиентов</h2>
+          <div class="reviews">
+            <figure class="review">
+              <img src="https://images.unsplash.com/photo-1511735111819-9a3f7709049c?q=80&w=640&auto=format&fit=crop" alt="Турист 1" />
+              <blockquote>«Отдых прошёл замечательно! Спасибо TravelGo за отличный сервис»</blockquote>
+              <figcaption>Анастасия, Москва</figcaption>
+            </figure>
+            <figure class="review">
+              <img src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=640&auto=format&fit=crop" alt="Турист 2" />
+              <blockquote>«Быстро подобрали тур и помогли с визой. Рекомендую!»</blockquote>
+              <figcaption>Илья, Санкт‑Петербург</figcaption>
+            </figure>
+            <figure class="review">
+              <img src="https://images.unsplash.com/photo-1527980965255-d3b416303d12?q=80&w=640&auto=format&fit=crop" alt="Турист 3" />
+              <blockquote>«Лучшие цены и круглосуточная поддержка — поеду снова!»</blockquote>
+              <figcaption>Мария, Казань</figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <!-- Gallery -->
+      <section id="gallery" class="section alt">
+        <div class="container">
+          <h2>Галерея путешествий</h2>
+          <div class="gallery-grid">
+            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=800&auto=format&fit=crop" alt="Море" />
+            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop" alt="Город" />
+            <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=800&auto=format&fit=crop" alt="Горы" />
+            <img src="https://images.unsplash.com/photo-1473625247510-8ceb1760943f?q=80&w=800&auto=format&fit=crop" alt="Пляж" />
+            <img src="https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=800&auto=format&fit=crop" alt="Отель" />
+            <img src="https://images.unsplash.com/photo-1518544801976-3e188ed681d5?q=80&w=800&auto=format&fit=crop" alt="Экскурсия" />
+          </div>
+        </div>
+      </section>
+
+      <!-- FAQ -->
+      <section id="faq" class="section">
+        <div class="container">
+          <h2>Частые вопросы</h2>
+          <div class="faq">
+            <details>
+              <summary>Как забронировать тур?</summary>
+              <p>Выберите направление, даты и оставьте заявку — мы свяжемся и оформим бронь.</p>
+            </details>
+            <details>
+              <summary>Можно ли вернуть деньги?</summary>
+              <p>Возврат возможен согласно условиям тарифа и законодательству. Поможем оформить.</p>
+            </details>
+            <details>
+              <summary>Какие документы нужны?</summary>
+              <p>Паспорт, иногда виза и страховка. Мы подскажем полный список под вашу поездку.</p>
+            </details>
+          </div>
+        </div>
+      </section>
+
+      <!-- Lead Form -->
+      <section id="lead" class="section alt">
+        <div class="container">
+          <h2>Хотите поехать в отпуск?</h2>
+          <p class="lead">Оставьте заявку, и мы подберём тур для вас</p>
+          <form id="lead-form" class="lead-form" novalidate>
+            <div class="grid-2">
+              <label>Имя<input type="text" name="name" required placeholder="Ваше имя" /></label>
+              <label>Телефон<input type="tel" name="phone" required placeholder="+7 (___) ___‑__‑__" /></label>
+              <label>Email<input type="email" name="email" required placeholder="you@example.com" /></label>
+              <label>Страна назначения<input type="text" name="destination" required placeholder="Например, Таиланд" /></label>
+              <label>Даты<input type="text" name="dates" required placeholder="01.07 — 14.07" /></label>
+              <div class="agree">
+                <input type="checkbox" id="agree" required />
+                <label for="agree">Согласен на обработку персональных данных</label>
+              </div>
+            </div>
+            <button type="submit" class="btn btn-accent">Отправить</button>
+            <div id="lead-status" role="status" aria-live="polite"></div>
+          </form>
+        </div>
+      </section>
+
+      <!-- Contacts -->
+      <section id="contacts" class="section">
+        <div class="container">
+          <h2>Контакты</h2>
+          <div class="contacts">
+            <div class="contacts-info">
+              <p><strong>Адрес:</strong> Москва, ул. Путешествий, 10</p>
+              <p><strong>Телефоны:</strong> <a href="tel:+74951234567">+7 (495) 123‑45‑67</a></p>
+              <p><strong>Email:</strong> <a href="mailto:hello@travelgo.ru">hello@travelgo.ru</a></p>
+              <div class="socials">
+                <a class="btn btn-sm" href="https://wa.me/70000000000" target="_blank" rel="noopener">WhatsApp</a>
+                <a class="btn btn-sm" href="https://t.me/travelgo" target="_blank" rel="noopener">Telegram</a>
+              </div>
+            </div>
+            <div class="contacts-map">
+              <iframe title="Карта офиса" src="https://yandex.com/map-widget/v1/?um=constructor%3A&source=constructor" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div>© <span id="year"></span> TravelGo</div>
+        <a href="#hero" data-scroll="top" class="to-top">Наверх ↑</a>
+      </div>
+    </footer>
+
+    <script src="/script.js"></script>
+  </body>
+  </html>
+
